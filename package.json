@@ -1,7 +1,7 @@
 {
   "name": "Danar",
   "version": "2.1.0",
-  "description": "black",
+  "description": "Face Bot",
   "main": "black.js",
   "scripts": {
     "start": "node black.js"
